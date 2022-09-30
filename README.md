@@ -18,11 +18,10 @@ or follow SHAPEAI on:
 <li><a href=
 "https://in.linkedin.com/company/shapeai">LinkedIn</a>
 <li><a href=
-"https://www.instagram.com/shape.ai/?hl=en">Instagram</as
+       "https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a 
 href=
-"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTu
-be</a>
+"https://www.youtube.com/channel/UCTUVDLTW9meuDXWcbmISPdA">YouTube</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
 
